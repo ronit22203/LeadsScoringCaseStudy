@@ -102,7 +102,7 @@ Once the model is trained and evaluated, it will be used to assign lead scores t
 
 ## Repository Structure
 
-- **Summary PDF**: PDF brief summary of the lifecycle of our model.
+- **Summary PDF**: Brief summary of the process, analysis and results.
 - **Subjective QnA**: This file contains answers to the subjective questions.
 - **Lead_Scoring_Case_Study.ipynb**: Jupyter notebook containing the code for data cleaning, model building, and evaluation.
 - **Presentation**: A PowerPoint Presentation, highlighting our analysis and trends we uncovered.
