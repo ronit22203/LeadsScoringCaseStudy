@@ -47,23 +47,6 @@ The goal of this case study is to build a **logistic regression model** to assig
 - **Handled "Select" Levels**: Columns like `Lead Profile` and `How did you hear about X Education` had a significant number of "Select" values, which were dropped.
 - **Dropped Single-Dominant Columns**: Columns like `Do Not Call`, `Magazine`, `Newspaper Article`, etc., were removed as they had almost all values as "No".
 
-### Final Dataset:
-After cleaning, the dataset contains the following columns:
-- `Prospect ID`
-- `Lead Number`
-- `Lead Origin`
-- `Lead Source`
-- `Do Not Email`
-- `Converted`
-- `TotalVisits`
-- `Total Time Spent on Website`
-- `Page Views Per Visit`
-- `Last Activity`
-- `Specialization`
-- `What is your current occupation`
-- `A free copy of Mastering The Interview`
-- `Last Notable Activity`
-
 ---
 
 ## Model Building
